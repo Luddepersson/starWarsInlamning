@@ -1,0 +1,26 @@
+
+
+h1{
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+}
+
+img{
+    height: 200px;
+    
+}
+.infobox{
+    border: solid;
+}
+.infobox h2{
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+}
+.infobox p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
